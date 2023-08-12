@@ -140,3 +140,14 @@ p{
  
 
 }
+
+
+
+
+#feature-box:hover    i{
+
+    color: rgb(255, 183, 0) ;
+
+    transition: 0.6s;
+
+}
